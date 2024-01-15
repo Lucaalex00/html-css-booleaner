@@ -1,0 +1,21 @@
+#header {
+    background-color: green;
+}
+
+#main {
+    background-color: pink;
+}
+
+#footer {
+    background-color: blue;
+}
+
+.img {
+    width: 50px;
+    background-color: black;
+    border: 1px solid red;
+}
+
+section {
+    background-color: yellow;
+}
