@@ -16,10 +16,6 @@
     position: relative;
 }
 
-#footer {
-    background-color: blue;
-}
-
 #title>h1 {
     position: absolute;
     bottom: 10%;
@@ -100,4 +96,19 @@ th {
 .paragraph {
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+#footer_interests {
+    color: gray;
+}
+
+.image-container {
+    position: relative;
+}
+
+.text-on-image {
+    position: absolute;
+    font-size: 24px;
+    color: white;
+    padding: 10px;
 }
