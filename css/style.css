@@ -5,6 +5,7 @@
 
 }
 
+/*HEADER*/
 #header {
     background-image: url(/img/pattern.png);
     background-size: contain;
@@ -27,6 +28,8 @@
     left: 2%;
 }
 
+/*/HEADER*/
+/*Description in 1st Paragraph*/
 section>h2 {
     margin-top: 20px;
     font-size: 32px;
@@ -51,10 +54,13 @@ section>div {
 
 }
 
+/*/Description in 1st Paragraph*/
 .pic-desc {
     font-size: 12px;
     font-weight: bold;
 }
+
+/*Unordered List*/
 
 section>p {
     font-size: 24px;
@@ -62,12 +68,14 @@ section>p {
     margin-bottom: 20px;
 }
 
+/*/Unordered List*/
 ul {
     font-weight: bold;
     list-style-type: disc;
     padding: 20px;
 }
 
+/*TABLE*/
 th {
     background-color: rgb(32 169 229);
     color: white;
@@ -93,11 +101,13 @@ th {
 
 }
 
+/*/TABLE*/
 .paragraph {
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
+/*FOOTER*/
 #footer_interests {
     color: gray;
 }
@@ -112,3 +122,5 @@ th {
     color: white;
     padding: 10px;
 }
+
+/*FOOTER*/
