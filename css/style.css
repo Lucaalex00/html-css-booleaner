@@ -96,3 +96,8 @@ th {
     text-align: left;
 
 }
+
+.paragraph {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
